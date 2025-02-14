@@ -140,7 +140,6 @@ footer section {
     section{
         max-width: 77rem;
         margin: 0 auto;
-        max-height:90%;
     }
 
     h1{
@@ -158,11 +157,8 @@ footer section {
     }
 
     footer section{
-        margin-left: 13rem;
-    }
-
-    article:nth-of-type(2), article:nth-of-type(3), article:nth-of-type(4), article:nth-of-type(5), article:nth-of-type(6), article:nth-of-type(7), article:nth-of-type(8), article:nth-of-type(9){
-        position:relative
+        margin-left: auto;
+        margin-right: auto;
     }
 
 
